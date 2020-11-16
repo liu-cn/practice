@@ -1,6 +1,7 @@
 /**
  * 判断101-200之间有多少个素数，并输出所有素数。
  */
+
 package com.liubr;
 
 public class P02 {
